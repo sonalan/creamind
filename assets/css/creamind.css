@@ -1,0 +1,24 @@
+body{
+    padding-top: 60px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+header{
+    margin-bottom: 40px;
+}
+
+nav img.logo{
+    height: 90px;
+    width: auto;
+    position: absolute;
+    margin-top: -20px;
+}
+
+nav#header.shadow img.logo{
+    height: 50px;
+    margin-top: -25px
+}
+
+
+footer .logo{
+    height: 60px;
+}
